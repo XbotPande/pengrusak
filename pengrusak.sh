@@ -363,7 +363,7 @@ echo  "|WA       : 08814679274                           |"|lolcat
 sleep 1
 echo  "|IG.      : Pandark00                             |"|lolcat
 sleep 1
-echo  "|TOOLS    : Troll_project                         |"|lolcat
+echo  "|TOOLS    : Trojans                               |"|lolcat
 sleep 1
 echo "===================================================="|lolcat
 echo
